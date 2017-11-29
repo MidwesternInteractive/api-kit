@@ -74,6 +74,12 @@ This is will set up the basic structure for a MWI Laravel project.
 ```shell
 $ php artisan mwi:install
 ```
+---
+
+## Install Passport
+Go to the latest version of [Passport](https://laravel.com/docs/5.5/passport#installation) and follow the instructions.
+
+NOTE: the database has already been migrated.
 
 ---
 
