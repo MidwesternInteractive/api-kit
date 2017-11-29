@@ -20,8 +20,9 @@ Set up the version control for your project
 ```shell
 $ cd ~/projects/
 $ mkdir new-project && cd new-project
-$ composer require mwi/starter-kit
 $ composer require laravel/passport
+$ composer require doctrine/dbal
+$ composer require bugsnag/bugsnag-laravel
 ```
 ## Go to the latest laravel passport docs and follow installation steps
 [Installation](https://laravel.com/docs/5.5/passport#installation)
